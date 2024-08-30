@@ -68,13 +68,7 @@ Performance evaluation using various metrics
 
 Feature importance and SHAP values for interpretation
 
-**Usage**
 
-**Preprocessing:** Prepares the dataset by handling missing values, scaling features, and addressing class imbalance.
-
-**Training:** Trains a logistic regression model using grid search for hyperparameter tuning.
-
-**Validation:** Evaluates the model performance using cross-validation and test set metrics.
 
 **Benefits to the Company**
 
@@ -86,6 +80,7 @@ Scalability: The solution is designed to be scalable, allowing integration with 
 
 Data-Driven Insights: Provides valuable insights into transaction patterns and fraud trends, supporting strategic decision-making.
 
+
 **Future Work**
 
 Explore advanced algorithms and techniques for improved performance.
@@ -93,6 +88,8 @@ Explore advanced algorithms and techniques for improved performance.
 Implement real-time fraud detection and monitoring systems.
 
 Continuously update the model based on new data and emerging fraud patterns.
+
+
 
 Contact
 For any questions or issues, please contact at surbhiibansal@icloud.com
