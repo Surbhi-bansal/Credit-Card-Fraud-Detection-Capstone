@@ -1,6 +1,4 @@
-**Credit Card Fraud Detection Project Summary**
-
-**Find Default (Prediction of Credit Card fraud)**
+**Find Default (Prediction of Credit Card fraud) Project Summary**
 
 Problem Statement:
 
